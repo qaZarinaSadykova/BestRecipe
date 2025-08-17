@@ -7,3 +7,5 @@ build/
 *.pbxuser
 xcuserdata/
 **/xcuserdata/
+**/xcuserdatad/
+**/UserInterfaceState.xcuserstate
