@@ -6,3 +6,4 @@ DerivedData/
 build/
 *.pbxuser
 xcuserdata/
+**/xcuserdata/
